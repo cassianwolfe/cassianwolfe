@@ -1,72 +1,58 @@
-# Cassian Wolfe
-
 <p align="left">
-  <img src="https://img.shields.io/badge/Platform-iOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Role-Indie_Developer-7C3AED?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Framework-React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Styling-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI-Gemini_|_Claude_|_GPT-1F6FEB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Platform-iOS_|_macOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Role-Indie_AI_Engineer-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Stack-Swift_|_SwiftUI-20232A?style=for-the-badge&logo=swift&logoColor=F05138"/>
+  <img src="https://img.shields.io/badge/Architecture-C_LLMS_|_Aurora_Runtime-1F6FEB?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Editor-Cursor-0A84FF?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
-**Indie iOS maker.** I build small, sharp apps with a simple rule: **1 core hook, 1 supportive feature, 1 delight touch.** Lean, bold, and a little cosmic.
+**Indie AI builder.** I design and ship tools built around one idea: **assistive intelligence that stays local, fast, and personal.**
+Simple systems. Sharp boundaries. Zero fluff.
 
 ---
 
-## What I’m exploring right now
+## What I'm focused on right now
 
-- **Chat‑first productivity** and playful streak mechanics.
-- **Micro‑breathwork tools** (30–60s resets, haptics + visuals).
-- **Adaptive journaling** powered by AI (mood/themes → evolving prompts).
-- **Idea card decks** for founders/creatives (pitch • plan • hook).
-- **Stoic micro‑coaching**: daily discipline, minimal friction.
+* **C-LLM architecture** and the Aurora Runtime pipeline.
+* **Local-first personal AI** with persistent cognitive state.
+* **FocusOS** — my calm, on-device OS layer for productivity.
+* **Hybrid inference research** (routing, model selection, cognitive depth).
+* **Ultra-tight app design**: fast, clean, and frictionless.
 
-> I ship in small loops: scope → build → test → cut or double‑down.
-
----
-
-## How I work
-
-- **Agentic prompts**: a set of AI "teammates" for ops, CFO, design, market.
-- **Windows + PowerShell**: local builds tuned via Cursor **user/project rules**.
-- **1+1+1 discipline**: guardrails against feature bloat.
-- **Fast validation**: if it’s not shareable in 5 seconds, it needs rethinking.
+> My whole workflow is: think in systems, ship in loops, cut aggressively.
 
 ---
 
-## Tech I use
+## How I build
 
-- **React Native + Expo** — cross‑platform core for iOS builds.
-- **TypeScript** — strict, readable app code.
-- **TailwindCSS/NativeWind** — utility‑first UI speed.
-- **AI** — Gemini 2.5 (Pro/Flash), Claude Sonnet, GPT‑5 Thinking (for ideation + coaching).
-- **Editor** — Cursor (auto mode, PowerShell‑friendly rules).
-- **Versioning** — GitHub.
-
----
-
-## What to expect here
-
-- Public experiments, WIP prototypes, and sharable utilities.
-- Clean READMEs, minimal setup steps, and tight scopes.
-- Occasional write‑ups on lessons learned from rapid app cycles.
+* **Cognitive pipelines** instead of monolithic prompts.
+* **A full bench of AI “agents”** for research, analysis, design, ops.
+* **Cursor as my engineering cockpit** with planning mode for architecture and agent mode for execution.
+* **Local-first mentality** — privacy, speed, autonomy.
+* **Structure over hype** — everything serves the product.
 
 ---
 
-*If you want to follow along, star the repos that resonate. I keep things lean and ship often.*
+## Tech & tools
 
+* **Swift + SwiftUI** — native iOS/macOS builds.
+* **Aurora Runtime** — my C-LLM engine for on-device cognition.
+* **Python Brain Modules** — external reasoning blocks when depth matters.
+* **Ollama** — local model stack for hybrid inference.
+* **AI** — Claude, GPT-5, Gemini for research iterations.
+* **Cursor** — rulesets, planning flows, auto-refactor.
+* **GitHub** — versioning + public drops.
 
-<!--
-**cassianwolfe/cassianwolfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## What you'll find here
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Thynaptic research drops.
+* C-LLM experiments, prototypes, and runtime components.
+* FocusOS utilities and personal tools.
+* Clean READMEs and well-scoped repos.
+* Real things I use — nothing ornamental.
+
+---
+
+*If any of this hits, star what resonates. I ship often and I don’t waste motion.*
