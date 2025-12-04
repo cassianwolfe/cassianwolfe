@@ -150,15 +150,6 @@ I'm always interested in:
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cassianwolfe&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=0891b2&line=0891b2&point=0891b2)
-
-</div>
 
 ---
 
@@ -167,8 +158,6 @@ I'm always interested in:
 **"Thinking systems at the speed of connection."**
 
 *Building the future of controllable, personal AI*
-
-![Visitor Count](https://profile-counter.glitch.me/cassianwolfe/count.svg)
 
 </div>
 
