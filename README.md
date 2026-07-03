@@ -1,151 +1,357 @@
-<div align="center">
+# GV Labs
 
-# Cassian Wolfe
+<p align="center">
+  <img src="https://img.shields.io/badge/Division-GV%20Labs-C9A45A?style=for-the-badge&labelColor=0F1014" />
+  <img src="https://img.shields.io/badge/Parent-Genoventures-C9A45A?style=for-the-badge&labelColor=0F1014" />
+  <img src="https://img.shields.io/badge/Focus-Software%20Innovation-ffffff?style=for-the-badge&labelColor=0F1014" />
+  <img src="https://img.shields.io/badge/Mode-Build%20Validate%20Improve%20Scale-C9A45A?style=for-the-badge&labelColor=0F1014" />
+</p>
 
-**Founder, Thynaptic Research**  
-**Cognitive Systems Engineer • Sovereign AI Architect**  
+<p align="center">
+  <strong>Product Innovation & Venture Development Division of Genoventures</strong>
+</p>
 
-[![Website](https://img.shields.io/badge/Thynaptic-111?style=for-the-badge&logo=vercel&logoColor=white)](https://thynaptic.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cassianwolfe)
-[![GitHub Followers](https://img.shields.io/github/followers/cassianwolfe?style=for-the-badge&color=0891b2)](https://github.com/cassianwolfe)
-[![Stars](https://img.shields.io/github/stars/cassianwolfe?style=for-the-badge&color=0891b2)](https://github.com/cassianwolfe?tab=repositories)
-[![Email](https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ai@thynaptic.com)
-
-<br>
-
-**Systems you can trust.  
-Intelligence that stays local.  
-A platform built to outlive the cloud.**
-
-</div>
+<p align="center">
+  Building software products, intelligent systems, and reusable platforms designed to become enduring assets.
+</p>
 
 ---
 
-## What I Build
+## About GV Labs
 
-I design sovereign AI systems that run local, stay private, and don’t disappear when you need them.  
-My work centers on cognitive runtimes, safety architecture, and infrastructure you can trust under pressure.
+**GV Labs** is the dedicated software product innovation division of **Genoventures**.
 
-Thynaptic is the platform.  
-Mavaia is the runtime.  
-Control is the outcome.
+We discover, design, build, launch, and grow software products that strengthen the Genoventures ecosystem through recurring value, intellectual property, reusable infrastructure, and long-term strategic advantage.
 
----
+GV Labs is not a traditional engineering department.
 
-## Mavaia
+It is an internal venture laboratory.
 
-A cognitive-local intelligence runtime built for reliability, continuity, and full user ownership.
+A product foundry.
 
-Core direction:
+A systems workshop.
 
-- Deterministic cognitive architecture  
-- Local-first execution  
-- Memory systems with real continuity  
-- Safety layers that actually intervene  
-- OpenAI-compatible API with a hardened security posture  
-
-This is the backbone of the Thynaptic ecosystem.
+A place where raw ideas get pressure-tested, shaped, shipped, measured, and either scaled into something durable or respectfully sent to the graveyard with useful lessons still attached.
 
 ---
 
-## Thynaptic Research
+## What We Build
 
-Technical papers outlining cognitive systems, safety models, infrastructure design, and strategic direction for the ecosystem.
+GV Labs focuses on software products with commercial, operational, or strategic potential.
 
-[![Our Research](https://img.shields.io/badge/Our_Research-161?style=for-the-badge&logo=book&logoColor=white)](https://github.com/thynaptic/technical_documents)
+```txt
+SaaS Platforms
+AI-Native Products
+Desktop Applications
+Mobile Applications
+Browser Extensions
+APIs & Developer Tools
+Productivity Systems
+Knowledge Systems
+Internal Platforms
+Workflow Automation Tools
+```
 
----
+Every product is evaluated by a simple question:
 
-## Tech
+> Can this become a durable asset?
 
-### Languages
-
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### AI / ML
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Ollama](https://img.shields.io/badge/Ollama-111?style=for-the-badge&logo=commandline&logoColor=white)
-![LoRA](https://img.shields.io/badge/LoRA-FF6B6B?style=for-the-badge)
-
-### Infrastructure
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### Development
-
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
+If the answer is no, we either reshape it, reduce it, or kill it before it eats the calendar.
 
 ---
 
-## Security Posture
+## Operating Philosophy
 
-<div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Build-fast-0F1014?style=flat-square&labelColor=C9A45A" />
+  <img src="https://img.shields.io/badge/Validate-honestly-0F1014?style=flat-square&labelColor=C9A45A" />
+  <img src="https://img.shields.io/badge/Improve-relentlessly-0F1014?style=flat-square&labelColor=C9A45A" />
+  <img src="https://img.shields.io/badge/Scale-intelligently-0F1014?style=flat-square&labelColor=C9A45A" />
+</p>
 
-![OWASP Hardened](https://img.shields.io/badge/OWASP-Hardened-111?style=for-the-badge)
-![Zero Trust](https://img.shields.io/badge/Zero--Trust-Architecture-444?style=for-the-badge)
-![Air-Gap Ready](https://img.shields.io/badge/Air--Gap-Ready-0A3?style=for-the-badge)
+GV Labs follows one core rhythm:
 
-</div>
+```txt
+Build. Validate. Improve. Scale.
+```
 
-Sovereign systems demand sovereign security.  
-Everything is built under offensive assumptions.
+We move quickly, but not randomly.
 
-- Deterministic API behavior and stable error envelopes  
-- Complete OWASP hardening across API, UI, provider, and network layers  
-- Enforced offline egress isolation with allowlist-only outbound rules  
-- Hashed API keys with per-key scopes, quotas, rotation, and audit trails  
-- SIEM-friendly audit streams with request-level decision logs  
-- Air-gap compliance checks and zero-trust defaults  
-- Provider readiness probes, graceful drains, and deterministic failure semantics  
+We use AI aggressively, but not blindly.
 
-The posture is simple: assume pressure, and remain unbroken.
+We build with taste, but measure with discipline.
 
----
+We favor reusable systems over isolated wins.
 
-## Roadmap
-
-![Next](https://img.shields.io/badge/Next-0891b2?style=for-the-badge)
-
-- Strengthening the sovereign runtime  
-- Refining cognitive layers and memory architecture  
-- Finalizing API stability and deterministic behavior  
-- Completing operational hardening for SaaS readiness  
-
-![Mid-Term](https://img.shields.io/badge/Mid--Term-444?style=for-the-badge)
-
-- Mavaia Runtime v1  
-- Workspace isolation defaults  
-- Deployment templates for regulated environments  
-- Guided onboarding for enterprise pilots  
-
-![Long-Term](https://img.shields.io/badge/Long--Term-222?style=for-the-badge)
-
-- Multi-node sovereign inference clusters  
-- Enterprise capability registry and policy engine  
-- Full operational suite for runtime, UI, API, tooling  
-- Establishing Thynaptic as a sovereign AI infrastructure provider  
+We care about shipping, but we care even more about what survives after shipping.
 
 ---
 
-![In-Progress](https://img.shields.io/badge/Current--Work-366?style=for-the-badge)
+## Product Lifecycle
 
-- Hardening the sovereign runtime  
-- Expanding cognitive-layer architecture  
-- Strengthening the API surface across all provider paths  
-- Building out Thynaptic’s SaaS entry point  
+GV Labs products move through a structured venture-development pipeline.
+
+```mermaid
+flowchart TD
+    A[Idea Discovery] --> B[Validation]
+    B --> C[Product Definition]
+    C --> D[Prototype]
+    D --> E[MVP Development]
+    E --> F[Beta Launch]
+    F --> G[General Availability]
+    G --> H[Growth]
+    H --> I[Product Graduation]
+```
+
+A product may graduate into:
+
+```txt
+Independent Brand
+Dedicated Business Unit
+Portfolio Company
+Standalone Venture
+Long-Term Genoventures Platform Asset
+```
 
 ---
 
-A controlled system.  
-A local system.  
-A sovereign system.
+## Current Build Bias
+
+GV Labs prefers products that are:
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Useful-yes-C9A45A?style=for-the-badge&labelColor=0F1014" />
+  <img src="https://img.shields.io/badge/Elegant-yes-C9A45A?style=for-the-badge&labelColor=0F1014" />
+  <img src="https://img.shields.io/badge/Scalable-yes-C9A45A?style=for-the-badge&labelColor=0F1014" />
+  <img src="https://img.shields.io/badge/Secure-yes-C9A45A?style=for-the-badge&labelColor=0F1014" />
+  <img src="https://img.shields.io/badge/Reusable-yes-C9A45A?style=for-the-badge&labelColor=0F1014" />
+</p>
+
+We especially like:
+
+```txt
+Small sharp wedges
+Operator tools
+Workflow systems
+AI-assisted utilities
+Creator infrastructure
+Local-first helpers
+Internal tools with commercial upside
+Boring products with sneaky leverage
+```
+
+We are careful with:
+
+```txt
+Overbuilt platforms
+Unvalidated “AI wrappers”
+Feature soup
+Expensive infra fantasies
+Products with no distribution path
+Anything that requires a 400-page roadmap before the first useful screen exists
+```
+
+---
+
+## AI Strategy
+
+AI is foundational at GV Labs, but it has to earn its chair at the table.
+
+We use AI for:
+
+```txt
+AI-Assisted Development
+Workflow Automation
+Natural Language Interfaces
+Structured Extraction
+Routing & Classification
+Retrieval-Augmented Systems
+Agentic Workflows
+Product Research
+Documentation
+Decision Support
+```
+
+AI should improve the user outcome.
+
+Not decorate the landing page.
+
+Not hallucinate the business model.
+
+Not turn a simple tool into a haunted vending machine.
+
+---
+
+## Core Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agent-Codex-0F1014?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Local%20AI-Ollama-ffffff?style=for-the-badge&labelColor=0F1014" />
+</p>
+
+Primary workflow stack:
+
+```txt
+Code editor
+Version control platform
+AI-assisted coding tools
+Cloud-based language models
+Conversational AI interfaces
+Integrated development environments
+Local AI runtimes
+Lightweight local language models
+Knowledge management systems
+Markdown
+Modern web tooling
+```
+
+The philosophy:
+
+```txt
+Deterministic systems first.
+Cloud agents for heavy work.
+Local SLMs for lightweight language glue.
+Human judgment always on top.
+```
+
+---
+
+## Product Categories
+
+GV Labs explores products across several active zones.
+
+| Category               | Focus                                            |
+| ---------------------- | ------------------------------------------------ |
+| Productivity Systems   | Capture, routing, workflows, planning, execution |
+| AI-Native Tools        | Assistive agents, local models, smart interfaces |
+| Developer Utilities    | Git workflows, repo tooling, automation, docs    |
+| Creator Infrastructure | Publishing, scheduling, content ops, media tools |
+| Commerce Systems       | Store ops, brand workflows, product management   |
+| Knowledge Platforms    | Research, memory, structured notes, retrieval    |
+| Internal Platforms     | Reusable systems that may become public products |
+
+---
+
+## Reusable Platform Strategy
+
+Every product should leave behind something useful.
+
+GV Labs prioritizes reusable internal infrastructure such as:
+
+```txt
+Authentication
+User Management
+Billing
+Subscriptions
+AI Services
+Notifications
+Analytics
+Logging
+Monitoring
+Design Systems
+Component Libraries
+Shared APIs
+Internal SDKs
+Deployment Infrastructure
+```
+
+The goal is compounding leverage.
+
+Every product should make the next product faster, cleaner, smarter, or stronger.
+
+---
+
+## Success Metrics
+
+We do not measure success by how busy the lab looks.
+
+We measure by what ships, survives, and compounds.
+
+```txt
+Products Launched
+Time From Idea to MVP
+Active Users
+Monthly Recurring Revenue
+Customer Retention
+User Satisfaction
+Feature Adoption
+Product Reliability
+Experiment Velocity
+Reusable Assets Created
+Intellectual Property Developed
+Operational Knowledge Gained
+```
+
+Release frequency matters.
+
+Durable value matters more.
+
+---
+
+## Product Standards
+
+A GV Labs product should be:
+
+```txt
+Useful enough to matter
+Simple enough to ship
+Clear enough to explain
+Strong enough to scale
+Secure enough to trust
+Flexible enough to evolve
+Reusable enough to compound
+Valuable enough to survive
+```
+
+The lab does not worship complexity.
+
+Complexity is a tax.
+
+We pay it only when the product earns it.
+
+---
+
+## Active Operating Model
+
+```txt
+Founder-Led
+AI-Assisted
+Product-Driven
+Experiment-Friendly
+Launch-Oriented
+Evidence-Guided
+Long-Term Asset Focused
+```
+
+GV Labs is built for practical experimentation.
+
+Ideas are welcome.
+
+Weak assumptions are interrogated.
+
+Useful systems are reused.
+
+Good products are grown.
+
+Bad ideas are thanked for their service and escorted off the premises.
+
+---
+
+## Motto
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Build%20Boldly-0F1014?style=for-the-badge&labelColor=C9A45A" />
+  <img src="https://img.shields.io/badge/Launch%20Intelligently-0F1014?style=for-the-badge&labelColor=C9A45A" />
+  <img src="https://img.shields.io/badge/Create%20Enduring%20Value-0F1014?style=for-the-badge&labelColor=C9A45A" />
+</p>
+
+<p align="center">
+  <strong>GV Labs builds software products that become assets.</strong>
+</p>
+
+<p align="center">
+  Built under Genoventures. Built on legacy. Built for what lasts.
+</p>
